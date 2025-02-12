@@ -9,6 +9,7 @@ Initial investment amount,
  Monthly deposit amount (optional)
 
 Output includes:
+
 Year end balance and year end earned interest results for every year of the investment.
  Displays two reports; One for if you do monthly deposits, and one without monthly deposits
 
