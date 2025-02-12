@@ -2,6 +2,7 @@
 Simple program that calculates compound interest over a certain amount of years.
 
 Input includes:
+
 -Initial investment amount
 -Interest rate (%)
 -Number of years
