@@ -4,9 +4,9 @@ Simple program that calculates compound interest over a certain amount of years.
 Input includes:
 
 Initial investment amount,
- Interest rate (%),
- Number of years,
- Monthly deposit amount (optional)
+ interest rate (%),
+ number of years,
+ monthly deposit amount (optional)
 
 Output includes:
 
