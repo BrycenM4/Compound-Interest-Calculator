@@ -17,4 +17,4 @@ Completed 2/9/2025, and was a project for one of my classes.
 
 Utilizes functions, loops, and pointers to succesfully execute program.
 
-All coding done in C++ using Visual Studio 2022.
+All coding done in C++ using Visual Studio.
