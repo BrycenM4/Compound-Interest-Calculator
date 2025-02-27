@@ -34,4 +34,4 @@ RECAP:
 - Like I mentioned earlier, I thought my organization was good, so that will obviously transfer to other projects. Other than that, I also got a lot of practice with formatting output, specifically with creating the charts that show up at the end of the program.
 
 **How did you make this program maintainable, readable, and adaptable?**
-- 
+- I utilized OOP principles to make the program maintanable, readable, and adaptable. For example, I split the program into multiple classes for encapsulation, and made the user input simple which improves it's abstraction quality. Overall, I just tried to make it easy to read and understand even for someone like me, who currently doesn't have a lot of c++ experience.
